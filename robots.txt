@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://saeidshirazi.github.io//sitemap.xml
